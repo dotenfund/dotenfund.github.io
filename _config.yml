@@ -25,3 +25,5 @@ permalink: pretty
 social:
   - title: email #Email
     url: dotenfund@gmail.com
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
