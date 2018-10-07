@@ -5,6 +5,9 @@
 url: https://dotenfund.github.io
 title: Dark Omegan Trust and Endeavor Fund
 email: dotenfund@gmail.com
+logo:
+  transparent: dotenfund-transparent.png
+  gray: dotenfund-gray.png
 author: Dark Omegan
 description: Trust and Endeavor Fund
 copyright: 'Copyright &copy; 2018 Dark Omegan Trust and Endeavor Fund. All Rights Reserved.'
