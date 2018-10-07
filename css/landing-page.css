@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Acumin Pro";
   font-weight: 700;
 }
 
@@ -26,14 +26,12 @@ h6 {
   font-weight: 400;
 }
 
-.navbar-brand {
-  padding: 15px 0px 2px 20px;
+.navbar-default .navbar-nav > li > a {
+  color: #f2e1a5;
 }
 
-.navbar-brand > img {
-  max-width: 25px;
-  padding-bottom: 5px;
-  margin-right: 5px;
+.navbar-brand {
+  padding: 10px;
 }
 
 .intro-header {
@@ -55,6 +53,7 @@ h6 {
   margin: 0;
   text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
   font-size: 5em;
+  color: #f2e1a5;
 }
 
 .intro-message > img {
@@ -71,6 +70,7 @@ h6 {
 
 .intro-message > h3 {
   text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+  color: #f2e1a5;
 }
 
 @media (max-width: 767px) {
@@ -139,6 +139,7 @@ h6 {
 }
 
 .banner h2 {
+  color: #f2e1a5;
   margin: 0;
   text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
   font-size: 3em;
